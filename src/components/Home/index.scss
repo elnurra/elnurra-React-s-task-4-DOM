@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  ul {
+    list-style: none;
+
+    li {
+      display: inline;
+      margin: 20px;
+      h3 {
+        display: inline;
+      }
+    }
+  }
+}
